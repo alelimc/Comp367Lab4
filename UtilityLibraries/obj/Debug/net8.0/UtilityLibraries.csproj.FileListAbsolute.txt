@@ -1,0 +1,11 @@
+C:\fromDesktop\_SEM4\COMP-367 DevOps Implementation\_submissions\comp367macapagal-lab4\UtilityLibraries\UtilityLibraries\bin\Debug\net8.0\UtilityLibraries.deps.json
+C:\fromDesktop\_SEM4\COMP-367 DevOps Implementation\_submissions\comp367macapagal-lab4\UtilityLibraries\UtilityLibraries\bin\Debug\net8.0\UtilityLibraries.dll
+C:\fromDesktop\_SEM4\COMP-367 DevOps Implementation\_submissions\comp367macapagal-lab4\UtilityLibraries\UtilityLibraries\bin\Debug\net8.0\UtilityLibraries.pdb
+C:\fromDesktop\_SEM4\COMP-367 DevOps Implementation\_submissions\comp367macapagal-lab4\UtilityLibraries\UtilityLibraries\obj\Debug\net8.0\UtilityLibraries.GeneratedMSBuildEditorConfig.editorconfig
+C:\fromDesktop\_SEM4\COMP-367 DevOps Implementation\_submissions\comp367macapagal-lab4\UtilityLibraries\UtilityLibraries\obj\Debug\net8.0\UtilityLibraries.AssemblyInfoInputs.cache
+C:\fromDesktop\_SEM4\COMP-367 DevOps Implementation\_submissions\comp367macapagal-lab4\UtilityLibraries\UtilityLibraries\obj\Debug\net8.0\UtilityLibraries.AssemblyInfo.cs
+C:\fromDesktop\_SEM4\COMP-367 DevOps Implementation\_submissions\comp367macapagal-lab4\UtilityLibraries\UtilityLibraries\obj\Debug\net8.0\UtilityLibraries.csproj.CoreCompileInputs.cache
+C:\fromDesktop\_SEM4\COMP-367 DevOps Implementation\_submissions\comp367macapagal-lab4\UtilityLibraries\UtilityLibraries\obj\Debug\net8.0\UtilityLibraries.dll
+C:\fromDesktop\_SEM4\COMP-367 DevOps Implementation\_submissions\comp367macapagal-lab4\UtilityLibraries\UtilityLibraries\obj\Debug\net8.0\refint\UtilityLibraries.dll
+C:\fromDesktop\_SEM4\COMP-367 DevOps Implementation\_submissions\comp367macapagal-lab4\UtilityLibraries\UtilityLibraries\obj\Debug\net8.0\UtilityLibraries.pdb
+C:\fromDesktop\_SEM4\COMP-367 DevOps Implementation\_submissions\comp367macapagal-lab4\UtilityLibraries\UtilityLibraries\obj\Debug\net8.0\ref\UtilityLibraries.dll

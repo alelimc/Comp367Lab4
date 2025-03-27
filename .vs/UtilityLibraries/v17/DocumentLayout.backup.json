@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\fromDesktop\\_SEM4\\COMP-367 DevOps Implementation\\_submissions\\comp367macapagal-lab4\\UtilityLibraries\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2DA0385-D619-412E-AFBB-5B8A6B662AE2}|ShowCase\\ShowCase.csproj|c:\\fromdesktop\\_sem4\\comp-367 devops implementation\\_submissions\\comp367macapagal-lab4\\utilitylibraries\\showcase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2DA0385-D619-412E-AFBB-5B8A6B662AE2}|ShowCase\\ShowCase.csproj|solutionrelative:showcase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1977D069-A96C-40F3-B740-5152BB38BCB8}|UtilityLibraries\\UtilityLibraries.csproj|c:\\fromdesktop\\_sem4\\comp-367 devops implementation\\_submissions\\comp367macapagal-lab4\\utilitylibraries\\utilitylibraries\\stringlibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1977D069-A96C-40F3-B740-5152BB38BCB8}|UtilityLibraries\\UtilityLibraries.csproj|solutionrelative:utilitylibraries\\stringlibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30D7354F-B5CE-498E-BC1A-9D00E61DFF7F}|StringLibraryTest\\StringLibraryTest.csproj|c:\\fromdesktop\\_sem4\\comp-367 devops implementation\\_submissions\\comp367macapagal-lab4\\utilitylibraries\\stringlibrarytest\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30D7354F-B5CE-498E-BC1A-9D00E61DFF7F}|StringLibraryTest\\StringLibraryTest.csproj|solutionrelative:stringlibrarytest\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30D7354F-B5CE-498E-BC1A-9D00E61DFF7F}|StringLibraryTest\\StringLibraryTest.csproj|c:\\fromdesktop\\_sem4\\comp-367 devops implementation\\_submissions\\comp367macapagal-lab4\\utilitylibraries\\stringlibrarytest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30D7354F-B5CE-498E-BC1A-9D00E61DFF7F}|StringLibraryTest\\StringLibraryTest.csproj|solutionrelative:stringlibrarytest\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\fromDesktop\\_SEM4\\COMP-367 DevOps Implementation\\_submissions\\comp367macapagal-lab4\\UtilityLibraries\\ShowCase\\Program.cs",
+              "RelativeDocumentMoniker": "ShowCase\\Program.cs",
+              "ToolTip": "C:\\fromDesktop\\_SEM4\\COMP-367 DevOps Implementation\\_submissions\\comp367macapagal-lab4\\UtilityLibraries\\ShowCase\\Program.cs",
+              "RelativeToolTip": "ShowCase\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T16:16:56.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\fromDesktop\\_SEM4\\COMP-367 DevOps Implementation\\_submissions\\comp367macapagal-lab4\\UtilityLibraries\\StringLibraryTest\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "StringLibraryTest\\UnitTest1.cs",
+              "ToolTip": "C:\\fromDesktop\\_SEM4\\COMP-367 DevOps Implementation\\_submissions\\comp367macapagal-lab4\\UtilityLibraries\\StringLibraryTest\\UnitTest1.cs",
+              "RelativeToolTip": "StringLibraryTest\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T16:09:02.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MSTestSettings.cs",
+              "DocumentMoniker": "C:\\fromDesktop\\_SEM4\\COMP-367 DevOps Implementation\\_submissions\\comp367macapagal-lab4\\UtilityLibraries\\StringLibraryTest\\MSTestSettings.cs",
+              "RelativeDocumentMoniker": "StringLibraryTest\\MSTestSettings.cs",
+              "ToolTip": "C:\\fromDesktop\\_SEM4\\COMP-367 DevOps Implementation\\_submissions\\comp367macapagal-lab4\\UtilityLibraries\\StringLibraryTest\\MSTestSettings.cs",
+              "RelativeToolTip": "StringLibraryTest\\MSTestSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T16:07:33.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StringLibrary.cs",
+              "DocumentMoniker": "C:\\fromDesktop\\_SEM4\\COMP-367 DevOps Implementation\\_submissions\\comp367macapagal-lab4\\UtilityLibraries\\UtilityLibraries\\StringLibrary.cs",
+              "RelativeDocumentMoniker": "UtilityLibraries\\StringLibrary.cs",
+              "ToolTip": "C:\\fromDesktop\\_SEM4\\COMP-367 DevOps Implementation\\_submissions\\comp367macapagal-lab4\\UtilityLibraries\\UtilityLibraries\\StringLibrary.cs",
+              "RelativeToolTip": "UtilityLibraries\\StringLibrary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T16:02:49.131Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

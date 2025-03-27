@@ -7,7 +7,7 @@ trigger:
   - main
 
 pool: 
-  vmImage: 'windows-latest'
+  name: SelfHostedAgent
 
 steps:
 - task: UseDotNet@2

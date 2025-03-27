@@ -169,3 +169,4 @@ C:\fromDesktop\_SEM4\COMP-367 DevOps Implementation\_submissions\comp367macapaga
 C:\fromDesktop\_SEM4\COMP-367 DevOps Implementation\_submissions\comp367macapagal-lab4\UtilityLibraries\StringLibraryTest\obj\Debug\net8.0\StringLibraryTest.pdb
 C:\fromDesktop\_SEM4\COMP-367 DevOps Implementation\_submissions\comp367macapagal-lab4\UtilityLibraries\StringLibraryTest\obj\Debug\net8.0\StringLibraryTest.genruntimeconfig.cache
 C:\fromDesktop\_SEM4\COMP-367 DevOps Implementation\_submissions\comp367macapagal-lab4\UtilityLibraries\StringLibraryTest\obj\Debug\net8.0\ref\StringLibraryTest.dll
+C:\fromDesktop\_SEM4\COMP-367 DevOps Implementation\_submissions\comp367macapagal-lab4\UtilityLibraries\StringLibraryTest\obj\Debug\net8.0\StringLibraryTest.sourcelink.json

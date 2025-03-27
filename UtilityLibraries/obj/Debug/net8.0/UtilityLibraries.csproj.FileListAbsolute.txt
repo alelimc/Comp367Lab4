@@ -9,3 +9,4 @@ C:\fromDesktop\_SEM4\COMP-367 DevOps Implementation\_submissions\comp367macapaga
 C:\fromDesktop\_SEM4\COMP-367 DevOps Implementation\_submissions\comp367macapagal-lab4\UtilityLibraries\UtilityLibraries\obj\Debug\net8.0\refint\UtilityLibraries.dll
 C:\fromDesktop\_SEM4\COMP-367 DevOps Implementation\_submissions\comp367macapagal-lab4\UtilityLibraries\UtilityLibraries\obj\Debug\net8.0\UtilityLibraries.pdb
 C:\fromDesktop\_SEM4\COMP-367 DevOps Implementation\_submissions\comp367macapagal-lab4\UtilityLibraries\UtilityLibraries\obj\Debug\net8.0\ref\UtilityLibraries.dll
+C:\fromDesktop\_SEM4\COMP-367 DevOps Implementation\_submissions\comp367macapagal-lab4\UtilityLibraries\UtilityLibraries\obj\Debug\net8.0\UtilityLibraries.sourcelink.json

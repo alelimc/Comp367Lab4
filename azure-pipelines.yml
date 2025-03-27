@@ -20,8 +20,8 @@ steps:
 - script: dotnet build --configuration $(buildConfiguration)
   displayName: 'Build project'
 
-- script: dotnet pack --configuration $(buildConfiguration) --output $(outputDirectory)
-  displayName: 'Pack NuGet package'
+- script: dotnet nuget push $(outputDirectory)/*.nupkg --source "Comp367Lab4Feed" --api-key az
+  displayName: 'Push package (dotnet CLI)'
 
 # First authenticate with Azure Artifacts
 - task: NuGetAuthenticate@1

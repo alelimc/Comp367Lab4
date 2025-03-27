@@ -7,7 +7,7 @@ trigger:
   - main
 
 pool: 
-  name: SelfHostedAgent
+  name: Comp367Lab4-SelfHosted-CIAgent-Win
 
 steps:
 - task: UseDotNet@2

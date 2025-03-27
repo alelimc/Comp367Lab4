@@ -31,8 +31,6 @@ steps:
 - task: NuGetCommand@2
   inputs:
     command: push
-    packagesToPush: '$(outputDirectory)/*.nupkg'
+    packagesToPush: '$(Build.ArtifactStagingDirectory)/*.nupkg'
     nuGetFeedType: 'internal'
-    publishVstsFeed: 'Comp367Lab4Feed'
-    allowPackageConflicts: true  # Optional: allows version updates
-  displayName: 'Push package to Azure Artifacts'
+    publishVstsFeed: 'Comp367Lab4Project/Comp367Lab4Feed'  # Add project name prefix
